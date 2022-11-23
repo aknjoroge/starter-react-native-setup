@@ -2,11 +2,15 @@
 
 
 ### Initial Dependencies
-> async-storage
-> react-navigation - [ bottom-tabs, native, native-stack, drawer ] 
-> reduxjs - [ redux, toolkit, react-redux ]
-> expo-splash-screen
-> native-base
+- async-storage
+
+- react-navigation - [ bottom-tabs, native, native-stack, drawer ] 
+
+- reduxjs - [ redux, toolkit, react-redux ]
+
+- expo-splash-screen
+
+- native-base
 
 
 ### Core dependency versions
